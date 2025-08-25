@@ -36,7 +36,7 @@ A comprehensive Infrastructure as Code solution for managing Cisco Meraki dashbo
 <td>
 
 ### 📊 Professional Dashboard
-- **Cisco-branded** responsive web interface
+- **UI** responsive web interface
 - **Real-time security** status visualization
 - **Compliance reporting** with exportable data
 - **Risk assessment** with detailed recommendations
