@@ -1,0 +1,12 @@
+
+# terraform.tfvars.example
+# Copy this file to terraform.tfvars and update with your values
+
+# Meraki API Key (alternatively set MERAKI_DASHBOARD_API_KEY environment variable)
+# meraki_api_key = "your_api_key_here"
+
+# Path to the CSV file containing admin information
+admins_csv_file = "admins.csv"
+
+# Number of days of API inactivity before flagging as risk
+api_inactivity_threshold_days = 30
