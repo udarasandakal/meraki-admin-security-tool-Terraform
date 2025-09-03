@@ -377,7 +377,7 @@ chmod +x scripts/*.py
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md).
+We welcome contributions!
 
 ### Development Setup
 
