@@ -480,8 +480,6 @@ Commercial use ✅ | Private use ✅ | Modification ✅ | Distribution ✅
 
 - **Cisco DevNet** for the excellent Meraki Terraform provider
 - **HashiCorp** for Terraform and comprehensive documentation
-- **Meraki Community** for API insights and feature requests
-- **Contributors** who have helped improve this tool
 
 ## 📞 Support and Community
 
@@ -496,6 +494,6 @@ Commercial use ✅ | Private use ✅ | Modification ✅ | Distribution ✅
 
 **⭐ If this tool helps you manage Meraki administrators more securely, please star the repository!**
 
-**Made with ❤️ for the Cisco Meraki community**
+**Made with ❤️ for the Cisco community**
 
 - By Udara Thenuwara
